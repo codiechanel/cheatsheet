@@ -1,5 +1,5 @@
-# cheatsheet
-Cheatsheets for my personal use
+# Development cheatsheet
+Development cheatsheet for my personal use. Ongoing documentation.
 
 ## Table of contents
 
