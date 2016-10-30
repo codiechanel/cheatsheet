@@ -23,5 +23,14 @@ adb shell input text ‘hello’
 ```text
 \AwesomeProject\node_modules\react-native\packager\react-packager\src\node-haste\FileWatcher
 ```
+## Using CodePush
+```text
+code-push release-react MyApp android --description "Modified the header color"
+```
+## Mandatory option with -m
+```text
+code-push release-react MyApp android -m --description "Modified the header color"
+```
+
 
 
