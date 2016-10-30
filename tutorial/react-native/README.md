@@ -1,4 +1,4 @@
-# cheatsheet
+# React Native Cheatsheet
 Android Cheatsheets
 
 ## Create and run react native
@@ -19,3 +19,9 @@ adb shell input keyevent 82
 ```html
 adb shell input text ‘hello’
 ```
+## Location of Filewatcher in case you need to edit it
+```text
+\AwesomeProject\node_modules\react-native\packager\react-packager\src\node-haste\FileWatcher
+```
+
+
